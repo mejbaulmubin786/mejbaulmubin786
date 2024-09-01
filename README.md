@@ -18,6 +18,12 @@ I am a dedicated Laravel PHP Developer with six months of experience in building
 *March 19, 2017 – Present*  
 I have been working at the Soil Resource Development Institute, a government institution in Bangladesh, since March 2017. My role involves contributing to various IT-related projects that enhance the institution's operational efficiency and resource management.
 
+### 🎓 Education & Training
+**Ostad**  
+*Advanced Laravel Training*  
+*May 1, 2024 – Present*  
+I am currently undertaking advanced-level training in Laravel from Ostad, where I am enhancing my knowledge and skills in building complex and scalable applications using Laravel's powerful features.
+
 ### 🏆 Projects & Contributions
 - **[Project Name 1]:** Developed a [short description of the project], which [details about the functionalities or technologies used].
 - **[Project Name 2]:** Contributed to [description of the project], focusing on [specific tasks or technologies].
