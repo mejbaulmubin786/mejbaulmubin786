@@ -31,8 +31,8 @@ I am currently exploring:
 
 ### 📫 How to Reach Me
 - **Email:** mejbaulmubin786@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Handle]
+- **LinkedIn:** [My LinkedIn Profile URL]
+- **Twitter:** [My Twitter Handle]
 
 ### 🌍 My Interests
 Apart from coding, I am interested in:
