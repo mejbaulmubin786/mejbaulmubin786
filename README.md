@@ -30,7 +30,7 @@ I am currently exploring:
 - DevOps practices, focusing on CI/CD pipelines and automated testing
 
 ### 📫 How to Reach Me
-- **Email:** mejbaulmubin@example.com
+- **Email:** mejbaulmubin786@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile URL]
 - **Twitter:** [Your Twitter Handle]
 
