@@ -37,7 +37,7 @@ I am currently exploring:
 
 ### 📫 How to Reach Me
 - **Email:** mejbaulmubin786@gmail.com
-- **LinkedIn:** [[My LinkedIn Profile URL]](https://www.linkedin.com/in/mejbaulmubin786/]
+- **LinkedIn:** [[My LinkedIn Profile URL]](https://www.linkedin.com/in/mejbaulmubin786/)
 - **Twitter:** [My Twitter Handle]
 
 ### 🌍 My Interests
