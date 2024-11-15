@@ -10,9 +10,6 @@ I am a dedicated Laravel PHP Developer with six months of experience in building
 - **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Version Control:** Git, GitHub
 - **APIs:** RESTful API development and integration
-- **Tools:** Composer, PHPUnit, Docker
-- **Deployment:** Experience with cloud services like AWS, and Heroku
-
 ### 💼 Professional Experience
 **Soil Resource Development Institute, Bangladesh**  
 *March 19, 2017 – Present*  
@@ -33,7 +30,6 @@ I am currently undertaking advanced-level training in Laravel from Ostad, where 
 I am currently exploring:
 - Advanced Laravel features like Jobs, Queues, and Events
 - Modern JavaScript frameworks like React.js or Vue.js for enhanced frontend capabilities
-- DevOps practices, focusing on CI/CD pipelines and automated testing
 
 ### 📫 How to Reach Me
 - **Email:** mejbaulmubin786@gmail.com
