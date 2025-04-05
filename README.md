@@ -1,7 +1,9 @@
 **👨‍💻 Mejbaul Mubin**  
 **Role:** Laravel PHP Developer  
+
 ### 🚀 About Me
 I am a dedicated Laravel PHP Developer with six months of experience in building and managing dynamic web applications. My focus is on creating scalable, secure, and efficient software solutions that meet client needs and improve user experiences. I am passionate about learning new technologies and continuously improving my coding skills.
+
 
 ### 🛠️ Skills & Technologies
 - **Backend:** PHP, Laravel, MySQL
