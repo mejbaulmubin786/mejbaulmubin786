@@ -1,50 +1,97 @@
-**👨‍💻 Mejbaul Mubin**  
-**Role:** Laravel PHP Developer  
+# 👨‍💻 Mejbaul Mubin
+
+**MERN Stack Developer | JavaScript Lover | Backend-Focused Full-Stack Engineer**
+
+---
 
 ### 🚀 About Me
-I am a dedicated Laravel PHP Developer with six months of experience in building and managing dynamic web applications. My focus is on creating scalable, secure, and efficient software solutions that meet client needs and improve user experiences. I am passionate about learning new technologies and continuously improving my coding skills.
 
+I am a passionate and committed **MERN Stack Developer**, skilled in building dynamic, responsive, and scalable web applications using JavaScript technologies. With a strong foundation in both backend and frontend development, I focus on clean code practices, API integration, and database efficiency. I enjoy solving complex problems and continuously exploring new technologies to grow as a full-stack engineer.
+
+---
 
 ### 🛠️ Skills & Technologies
-- **Backend:** PHP, Laravel, MySQL
-- **Frontend:** HTML, CSS, JavaScript, Vue.js
-- **Version Control:** Git, GitHub
-- **APIs:** RESTful API development and integration
+
+#### 🚀 Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, REST API, JWT Authentication
+- **Database:** MongoDB, Mongoose
+- **Others:** Git, GitHub, Postman, VS Code, Netlify, Vercel, Render, Firebase
+
+---
+
 ### 💼 Professional Experience
+
 **Soil Resource Development Institute, Bangladesh**  
-*March 19, 2017 – Present*  
-I have been working at the Soil Resource Development Institute, a government institution in Bangladesh, since March 2017. My role involves contributing to various IT-related projects that enhance the institution's operational efficiency and resource management.
+*IT Officer | March 2017 – Present*  
+- Supporting digital transformation through internal web tools  
+- Managing data processing systems and contributing to system design  
+- Collaborating with technical teams to deploy internal software solutions
+
+---
 
 ### 🎓 Education & Training
-**Ostad**  
-*Advanced Laravel Training*  
-*May 1, 2024 – Present*  
-I am currently undertaking advanced-level training in Laravel from Ostad, where I am enhancing my knowledge and skills in building complex and scalable applications using Laravel's powerful features.
 
-### 🏆 Projects & Contributions
-- **[Project Name 1]:** Developed a [short description of the project], which [details about the functionalities or technologies used].
-- **[Project Name 2]:** Contributed to [description of the project], focusing on [specific tasks or technologies].
-- **Open Source Contributions:** Active contributor to [name of any open-source projects if applicable].
+**Ostad** – *MERN Stack Development Training*  
+📅 May 1, 2024 – Present  
+- Advanced training on React.js, Node.js, Express, and MongoDB  
+- Full-stack project development with deployment and CI/CD knowledge  
+- Focus on authentication, protected routing, form handling, and error management
 
-### 🌱 Learning & Growth
-I am currently exploring:
-- Advanced Laravel features like Jobs, Queues, and Events
-- Modern JavaScript frameworks like React.js or Vue.js for enhanced frontend capabilities
+---
 
-### 📫 How to Reach Me
-- **Email:** mejbaulmubin786@gmail.com
-- **LinkedIn:** [[My LinkedIn Profile URL]](https://www.linkedin.com/in/mejbaulmubin786/)
-- **Twitter:** [My Twitter Handle]
+### 🧩 Projects
+
+- **[Project Name 1]:** A full-stack MERN blog application with user authentication, post CRUD, and admin dashboard.
+- **[Project Name 2]:** E-commerce platform using React, Node, Express, and MongoDB featuring product filters, cart system, and payment gateway.
+- **[Project Name 3]:** Real-time chat app using Socket.IO and MERN stack, with private messaging and typing indicators.
+
+> ✅ Live links & GitHub repo links can be added here for each project
+
+---
+
+### 🌱 Currently Learning
+
+- React Router v6 & Advanced Hooks  
+- Redux Toolkit and Global State Management  
+- Server-Side Rendering (SSR) with Next.js  
+- Testing with Jest and React Testing Library
+
+---
+
+### 🧠 Core Strengths
+
+- Full-Stack JavaScript Development  
+- RESTful API Design & Integration  
+- Authentication & Authorization (JWT, Firebase Auth)  
+- MongoDB Schema Design and Query Optimization  
+- Clean UI with Tailwind CSS and React Components  
+- Deployment on Netlify, Vercel, and Render
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** mejbaulmubin786@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/mejbaulmubin786](https://www.linkedin.com/in/mejbaulmubin786/)  
+- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+---
 
 ### 🌍 My Interests
-Apart from coding, I am interested in:
-- Learning about new technologies and frameworks
-- Reading books on software development and design patterns
-- Contributing to open-source projects
-- Participating in coding challenges on platforms like LeetCode and HackerRank
+
+- Reading documentation & developer blogs  
+- Participating in online coding contests (HackerRank, LeetCode)  
+- Exploring open-source JavaScript projects  
+- Writing clean, maintainable code
+
+---
 
 ### 🎯 Future Goals
-- Obtain Laravel certification to validate my skills
-- Contribute to more significant open-source projects
-- Develop expertise in full-stack development
+
+- Deploy 5+ full-stack MERN projects  
+- Master Next.js and TypeScript  
+- Contribute to open-source projects actively  
+- Land a remote MERN Stack Developer role
+
 
