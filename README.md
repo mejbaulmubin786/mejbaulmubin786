@@ -2,13 +2,9 @@
 
 **MERN Stack Developer | JavaScript Lover | Backend-Focused Full-Stack Engineer**
 
----
-
 ### 🚀 About Me
 
 I am a passionate and committed **MERN Stack Developer**, skilled in building dynamic, responsive, and scalable web applications using JavaScript technologies. With a strong foundation in both backend and frontend development, I focus on clean code practices, API integration, and database efficiency. I enjoy solving complex problems and continuously exploring new technologies to grow as a full-stack engineer.
-
----
 
 ### 🛠️ Skills & Technologies
 
@@ -18,8 +14,6 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 - **Database:** MongoDB, Mongoose
 - **Others:** Git, GitHub, Postman, VS Code, Netlify, Vercel, Render, Firebase
 
----
-
 ### 💼 Professional Experience
 
 **Soil Resource Development Institute, Bangladesh**  
@@ -27,8 +21,6 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 - Supporting digital transformation through internal web tools  
 - Managing data processing systems and contributing to system design  
 - Collaborating with technical teams to deploy internal software solutions
-
----
 
 ### 🎓 Education & Training
 
@@ -38,8 +30,6 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 - Full-stack project development with deployment and CI/CD knowledge  
 - Focus on authentication, protected routing, form handling, and error management
 
----
-
 ### 🧩 Projects
 
 - **[Project Name 1]:** A full-stack MERN blog application with user authentication, post CRUD, and admin dashboard.
@@ -48,16 +38,12 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 
 > ✅ Live links & GitHub repo links can be added here for each project
 
----
-
 ### 🌱 Currently Learning
 
 - React Router v6 & Advanced Hooks  
 - Redux Toolkit and Global State Management  
 - Server-Side Rendering (SSR) with Next.js  
 - Testing with Jest and React Testing Library
-
----
 
 ### 🧠 Core Strengths
 
@@ -68,15 +54,11 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 - Clean UI with Tailwind CSS and React Components  
 - Deployment on Netlify, Vercel, and Render
 
----
-
 ### 📫 Connect With Me
 
 - 📧 **Email:** mejbaulmubin786@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/mejbaulmubin786](https://www.linkedin.com/in/mejbaulmubin786/)  
 - 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
----
 
 ### 🌍 My Interests
 
@@ -84,8 +66,6 @@ I am a passionate and committed **MERN Stack Developer**, skilled in building dy
 - Participating in online coding contests (HackerRank, LeetCode)  
 - Exploring open-source JavaScript projects  
 - Writing clean, maintainable code
-
----
 
 ### 🎯 Future Goals
 
